@@ -6,7 +6,7 @@ int main()
     int array[25] = {0}; //input
 	int count[25] = {0}; //counter; index to this array will be the data element itself.
 	
-	printf("Enter the elements :"	);
+	printf("\nEnter the elements :"	);
 	int value = 0;
 	for(int i = 0; i<25; i++)
 	{
